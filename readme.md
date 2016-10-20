@@ -80,13 +80,13 @@ todo.
 
 # express middleware
 
-* body-perser
+* body-parser
 
 postを受け取るときに絶対必要。これがないとパラメータを受け取れない。
 
 * cookie-parser
 
-結局sessionがいることになったのでcookie-perserを使うことになった。
+結局sessionがいることになったのでcookie-parserを使うことになった。
 
 * express-session
 
